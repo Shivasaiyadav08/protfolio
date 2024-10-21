@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@tailwind base;
+@tailwind components;
+.images{
+    @apply xl:w-36 sm:w-20 w-16  
+}
+.collab{
+     @apply xl:w-24 sm:w-16 w-16
+}
+@tailwind utilities;
